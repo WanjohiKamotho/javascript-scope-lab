@@ -9,7 +9,7 @@ function addBurger(){
 }
 
 if(true){
-    let anotherNewBurger = "Maple Bacon Burger"
+    const anotherNewBurger = "Maple Bacon Burger"
     burgers.push(anotherNewBurger)
 }
 
