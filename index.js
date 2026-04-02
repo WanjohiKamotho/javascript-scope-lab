@@ -17,8 +17,3 @@ function changeFeaturedDrink(){
 featuredDrink = "The JavaShake"
 }
 
-addBurger()
-console.log(burgers)
-
-changeFeaturedDrink()
-console.log(featuredDrink)
