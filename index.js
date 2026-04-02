@@ -9,11 +9,12 @@ function addBurger(){
 }
 
 if(true){
-    const anotherNewBurger = "Maple Bacon Burger"
-    burgers.push(anotherNewBurger)
-}
-
+    const anotherNewBurger = "Maple Bacon Burger";
+    burgers.push(anotherNewBurger);
 function changeFeaturedDrink(){
 featuredDrink = "The JavaShake"
 }
+}
+
+
 
